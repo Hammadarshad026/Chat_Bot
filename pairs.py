@@ -30,7 +30,7 @@ pair =[
       "I rely on a structured database to deliver the most relevant answers about MGEU.",
       "I don’t think like a human, but I have extensive knowledge about MGEU’s mission, leadership, and programs."]],
 
-    [r"(?i).*what is mgeu.*|.*about mgeu.*|.*tell me about mgeu.*|.*mgeu.*mean.*",
+    [r"(?i).*what is mgeu.*|.*about mgeu.*|.*tell me about mgeu.*|.*mgeu.*mean.*|.*about.*",
      ["MGEU stands for Majestic Global Empire University. We are a dynamic global organization committed to connecting worlds, empowering nations, and serving humanity for a sustainable Earth.",
       "Majestic Global Empire University (MGEU) is a global organization dedicated to transforming lives through education, innovation, and sustainable development.",
       "MGEU is a worldwide institution that connects innovators, educators, and leaders to create positive global impact through various programs and initiatives."]],
@@ -215,7 +215,7 @@ pair =[
      ["MGEU is committed to preserving both biodiversity and cultural diversity through specialized programs and advocacy efforts.",
       "Our initiatives include projects focused on protecting endangered species, preserving traditional knowledge, and promoting cultural heritage.",
       "The preservation of natural and cultural diversity is a core component of MGEU's mission and is reflected in many of our global programs."]],
-    [r"(?i).*who created you.*|.*who made you.*|.*who is your creator.*",
+    [r"(?i).*who created you.*|.*who made you.*|.*who is your creator.*|.*who create you*",
      ["I was created by Hammad Arshad. You can contact him at +923059262670.",
       "Hammad Arshad developed me to assist with MGEU-related queries. Feel free to reach out to him at +923059262670.",
       "I was designed and built by Hammad Arshad. If you need more details, you can contact him at +923059262670."]],
