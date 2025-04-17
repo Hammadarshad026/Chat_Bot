@@ -245,7 +245,7 @@ pair =[
       "I don’t have independent thoughts; I just process and return relevant information.",
       "I don’t think like a human; I rely on predefined data to generate responses."]],
 
-    [r"(?i).*who is Hammad Arshad.*|.*tell me about your creator.*",
+    [r"(?i).*who is Hammad Arshad.*|.*tell me about your creator.*|.*maker*|.*creator*",
      ["Hammad Arshad is my creator and developer. You can contact him at +923059262670.",
       "Hammad Arshad designed and programmed me to assist with MGEU-related inquiries.",
       "I was developed by Hammad Arshad, who specializes in AI and chatbot development."]],
